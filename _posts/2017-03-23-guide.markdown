@@ -17,7 +17,7 @@ categories: introduction
 
 3. 打开git命令行，执行`git clone https://github.com/common-park/common-park.github.io.git`即可将此项目clone到自己电脑上
 
-4. 如果想在自己的电脑上预览网站效果，可以安装jekyll环境，具体参考 [Jekyll官网]https://jekyllrb.com/docs/home。
+4. 如果想在自己的电脑上预览网站效果，可以安装jekyll环境，具体参考 [Jekyll官网][jekyll-docs]。
 
 5. 发布文章的话，在`_posts/`目录下新建类似`2017-03-22-hello-word.markdown`格式的文件，语法格式参考已发布的文章，markdown语法简单又强大，配合atom编辑器更佳，谁用谁知道！
 
@@ -38,3 +38,6 @@ categories: introduction
 5. 不要害怕犯错。不犯错就不会进步。知错能改，善莫大焉。
 
 ### Hive a good time!
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
